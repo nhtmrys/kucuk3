@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kucuk3
 - 👀 I’m interested in deep-learning
-- 🌱 I’m currently learning python3 
+- 🌱 I’m currently learning python3 & js
 - 💞️ I’m looking to collaborate on mini apps.
 
 <!---
