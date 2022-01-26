@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kucuk3
-- 👀 I’m interested in deep-learning
+- 👀 I’m interested in deep-learning & web programming
 - 🌱 I’m currently learning python3 & js
 - 💞️ I’m looking to collaborate on mini apps.
 
